@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+
 🎓 An Electronics & Telecommunication student<br>💻 Skilled in HTML, CSS, JavaScript, C++, python, java, SQL<br>🤖 Basic knowledge of AI & Machine Learning<br>🛠️ Interested in building practical, real-world projects<br>📚 Believe in strong fundamentals and continuous learning<br>🌱 Growing step by step through consistency and effort<br>🔗 LinkedIn: https://www.linkedin.com/in/riya-sawant
 
 
